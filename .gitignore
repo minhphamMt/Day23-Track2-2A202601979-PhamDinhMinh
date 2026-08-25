@@ -11,6 +11,17 @@ reports/*.jsonl
 reports/*.json
 chaos/chaos-events.jsonl
 
+# Evidence bắt buộc phải đi cùng bài nộp (RUBRIC.md)
+!reports/drill-1-nodr.jsonl
+!reports/drill-2-withdr.jsonl
+!reports/health-events.jsonl
+!reports/failover-events.jsonl
+!reports/runbook-run.jsonl
+!reports/replication.jsonl
+!reports/measure-drill-1.json
+!reports/measure-drill-2.json
+!chaos/chaos-events.jsonl
+
 # Python
 __pycache__/
 *.pyc
