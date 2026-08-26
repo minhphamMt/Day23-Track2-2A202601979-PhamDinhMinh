@@ -7,9 +7,6 @@ run/*
 !run/.gitkeep
 
 # Log/evidence sinh vien tu tao trong luc chay drill
-reports/*.jsonl
-reports/*.json
-chaos/chaos-events.jsonl
 
 # Evidence bắt buộc phải đi cùng bài nộp (RUBRIC.md)
 !reports/drill-1-nodr.jsonl

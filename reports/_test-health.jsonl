@@ -1,0 +1,2 @@
+{"event": "state_change", "ts": 1787642873.315866, "iso": "2026-08-25T07:27:53Z", "region": "a", "from": "HEALTHY", "to": "UNHEALTHY", "reason": "mock", "consecutive_fails": 3, "interval_s": 0.01, "threshold": 3}
+{"event": "state_change", "ts": 1787642873.3270824, "iso": "2026-08-25T07:27:53Z", "region": "b", "from": "HEALTHY", "to": "UNHEALTHY", "reason": "mock", "consecutive_fails": 3, "interval_s": 0.01, "threshold": 3}
